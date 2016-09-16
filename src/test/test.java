@@ -61,5 +61,7 @@ public class test
 			System.out.print(player4.getHand().getCardInHand().get(i).getNumber() + " ");
 		}
 		
+		System.out.print("\n" + "test de git");
+		
 	}
 }
